@@ -1,0 +1,7 @@
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\bin\Debug\ExceptionApplication.exe.config
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\bin\Debug\ExceptionApplication.exe
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\bin\Debug\ExceptionApplication.pdb
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\obj\Debug\ExceptionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\obj\Debug\ExceptionApplication.exe
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\obj\Debug\ExceptionApplication.pdb
+C:\Users\Dileep\source\repos\ExceptionApplication\ExceptionApplication\obj\Debug\ExceptionApplication.csprojAssemblyReference.cache
